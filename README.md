@@ -13,9 +13,7 @@ Criar um protótipo de um sistema capaz de **jogar Damas** através de uma inter
 
 ## 🛠️ Tecnologias Utilizadas  
 - **Linguagem:** Python  
-- **Visão Computacional:** OpenCV, NumPy  
-- **Interface (se aplicável):** Flask 
-- **Inteligência Artificial (futuro aprimoramento):** Algoritmos minimax e aprendizado de máquina  
+- **Modelo de Detecção**: YOLO  
 
 ## 🚀 Como Jogar?  
 1️⃣ **Clone o repositório:**  
